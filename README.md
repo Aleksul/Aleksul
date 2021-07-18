@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет👋 I'm Alex!
 
-<!--
-**aleksul/aleksul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm **Python Backend Developer** and **Embedded Software & Hardware Engineer** based in **Moscow, Russia**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently working part-time on a startup of mine
+- ⚙️ Use daily: `Python`, `C`, `KiCad`
+- ❤️ Love building CI/CD pipelines
+- 👨‍🎓 Currently studing `Kubernetes`
+- 📖 Going to study `Flutter` and `GoLang`
+- 🏖️ Interests: music🎵, photography📷, science🔬
+- 💬 Ping me about: anything
+- 😄 Passionate about: human relationships' related stuff
+- ☎️ Reach me: [Twitter](https://twitter.com/toFoxOrNot), [Telegram](https://t.me/aleksul), [aleksandrsulimov@bk.ru](mailto:Aleksandrsulimov@bk.ru)
