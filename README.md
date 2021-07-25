@@ -7,7 +7,7 @@ I'm **Python Backend Developer** and **Embedded Software & Hardware Engineer** b
 - 💻 Currently working part-time on a startup of mine
 - ⚙️ Use daily: `Python`, `C`, `KiCad`
 - ❤️ Love building CI/CD pipelines
-- 👨‍🎓 Currently studing `Kubernetes`
+- 👨‍🎓 Currently studing `Nomad`
 - 📖 Going to study `Flutter` and `GoLang`
 - 🏖️ Interests: music🎵, photography📷, science🔬
 - 💬 Ping me about: anything
