@@ -5,10 +5,10 @@
 I'm **Python Backend Developer** and **Embedded Software & Hardware Engineer** based in **Moscow, Russia**.
 
 - 💻 Currently working part-time on a startup of mine
-- ⚙️ Use daily: `Python`, `C`, `KiCad`
+- ⚙️ Use daily: `Python`, `KiCad`
 - ❤️ Love building CI/CD pipelines
 - 👨‍🎓 Currently studing `Nomad`
-- 📖 Going to study `Flutter` and `GoLang`
+- 📖 Going to study `GoLang`
 - 🏖️ Interests: music🎵, photography📷, science🔬
 - 💬 Ping me about: anything
 - 😄 Passionate about: human relationships' related stuff
