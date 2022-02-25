@@ -4,7 +4,7 @@
 <br />
 
 <p href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Python+backend+developer;Currently+live+in+Moscow+%F0%9F%87%B7%F0%9F%87%BA;Previously+an+embedded+engineer;Willing+to+relocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Python+backend+developer;Previously+an+embedded+engineer;Willing+to+relocate" />
 </p>
 
 <br />
