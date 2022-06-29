@@ -3,12 +3,6 @@
 
 <br />
 
-<p href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Python+backend+developer;Previously+an+embedded+engineer" />
-</p>
-
-<br />
-
 <p href="https://github.com/ryo-ma/github-profile-trophy" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aleksul&theme=nord&margin-w=5&row=1&column=5&no-frame=true&title=Commits,PR,Repositories,Stars,Followers" />
 </p>
